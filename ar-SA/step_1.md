@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+اضغط على قائمة ** اختيار خلفية** وحدد ،**رسام**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![خيار "الرسام" في قائمة "اختيار خلفية".](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+سيتم نقلك إلى محرر رسام Scratch مع إبراز الخلفية الجديدة. إذا كان لديك خلفيات أخرى في مشروعك ، فستراها أيضًا في القائمة:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![تظهر الخلفية الجديدة في محرر الرسام.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+تأكد من أنه يمكنك رؤية لوحة الخلفية الكاملة ، فقد تحتاج إلى استخدام أداة **تصغير**:
 
-![The zoom out icon](images/zoom-out.png)
+![ايقونة التصغير](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+لتعيين اللون الرئيسي للخلفية، انقر فوق الاداة **مستطيل** ، ثم استخدم **ملء** لتحديد لون، ثم اسحب الشكل فوق مساحة الخلفية الكاملة:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![تظهر الخلفية الجديدة في محرر الرسام](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+اسحب الشكل فوق مساحة الخلفية بالكامل:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![تظهر الخلفية الجديدة في محرر الرسام](images/single-colour-backdrop.png)
