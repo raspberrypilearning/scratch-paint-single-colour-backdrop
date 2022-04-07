@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Clique sur le menu **Choisir un arrière-plan** et sélectionne **Peindre**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![L'option « Peindre » dans le menu « Choisir un arrière-plan ».](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Tu seras redirigé vers l'éditeur de peinture Scratch avec le nouvel arrière-plan en surbrillance. Si tu as d'autres arrière-plans dans ton projet, tu les verras également dans la liste :
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![Le nouvel arrière-plan affiché dans l'éditeur de peinture.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Assure-toi que tu peux voir l'arrière-plan complet, tu devras peut-être utiliser l'outil **Zoom arrière** :
 
-![The zoom out icon](images/zoom-out.png)
+![L'icône de zoom arrière](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Pour définir la couleur principale de l'arrière-plan, clique sur l'outil **Rectangle**, puis utilise le sélecteur de couleur **Remplissage** pour sélectionner une couleur :
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Nouvel arrière-plan affiché dans l'éditeur de peinture](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Fais glisser la forme sur le canevas de l'arrière-plan complet :
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Nouvel arrière-plan affiché dans l'éditeur de peinture](images/single-colour-backdrop.png)
