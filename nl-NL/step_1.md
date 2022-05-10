@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Klik op het menu **Kies een achtergrond** en selecteer **Tekenen**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![De 'Tekenen' optie in het 'Kies een achtergrond' menu.](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Je komt dan in de Scratch Teken-editor en de nieuwe achtergrond is gemarkeerd. Als je andere achtergronden in je project hebt, zul je deze ook in de lijst zien:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![De nieuwe achtergrond die wordt weergegeven in de Teken-editor.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Zorg ervoor dat je het volledige canvas van de achtergrond kunt zien, daarvoor kun je de tool **Uitzoomen** gebruiken:
 
-![The zoom out icon](images/zoom-out.png)
+![Het pictogram voor uitzoomen](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Om de hoofdkleur van de achtergrond in te stellen, klik je op het **Rechthoek** gereedschap en gebruik je vervolgens de **Vulling** kleurkiezer om een kleur te selecteren en sleep je de vorm over de volledige achtergrond:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Nieuwe achtergrond weergegeven in de teken-editor](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Sleep de vorm over het volledige achtergrond canvas:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Nieuwe achtergrond weergegeven in de teken-editor](images/single-colour-backdrop.png)
