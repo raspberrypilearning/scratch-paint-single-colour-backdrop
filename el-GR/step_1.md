@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Κάνε κλικ στο μενού **Επιλέξτε Υπόβαθρο** και επίλεξε τη **Ζωγραφική**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![Το εικονίδιο "Ζωγραφική" στο μενού "Επιλέξτε Υπόβαθρο".](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Θα οδηγηθείς στον επεξεργαστή Ζωγραφικής του Scratch όπου η νέα ενδυμασία υποβάθρου θα είναι επιλεγμένη. Αν υπάρχουν και άλλες ενδυμασίες υποβάθρου στο έργο σου θα εμφανίζονται επίσης στη λίστα:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![Το νέο υπόβαθρο όπως εμφανίζεται στο πρόγραμμα επεξεργασίας Ζωγραφική.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Βεβαιώσου ότι μπορείς να δεις τον πλήρη καμβά υποβάθρου, ίσως χρειαστεί να χρησιμοποιήσεις το εργαλείο **Σμίκρυνση**:
 
-![The zoom out icon](images/zoom-out.png)
+![Το εικονίδιο σμίκρυνσης](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Για να ορίσεις το κυρίως χρώμα του υποβάθρου, κάνε κλικ στο εργαλείο **Ορθογώνιο** και μετά χρησιμοποίησε το εργαλείο **Γέμισμα** για να επιλέξεις ένα χρώμα:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Νέο φόντο όπως εμφανίζεται στον επεξεργαστή ζωγραφικής](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Σύρε το σχήμα πάνω στον καμβά υποβάθρου:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Νέο φόντο όπως εμφανίζεται στον επεξεργαστή ζωγραφικής](images/single-colour-backdrop.png)
