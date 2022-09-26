@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+**背景を選ぶ**メニューをクリックして**描く**を選択します。
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![「背景を選ぶ」メニューの「描く」アイコン。](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+新しい背景が強調表示されたScratchペイントエディタが表示されます。 プロジェクトに他の背景がある場合は、それらもリストに表示されます。
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![ペイントエディタに表示された新しい背景。](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+背景キャンバス全体が表示されていることを確認してください。**ズームアウト**ツールを使用する必要があるかもしれません。
 
-![The zoom out icon](images/zoom-out.png)
+![ズームアウトアイコン](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+背景のメインカラーを設定するには、**四角形**ツールをクリックし、**塗りつぶし**色選択パネルを使用して色を選択します。
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![ペイントエディタに表示された新しい背景](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+背景キャンバス全体を覆うように図形をドラッグします。
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![ペイントエディタに表示された新しい背景](images/single-colour-backdrop.png)
