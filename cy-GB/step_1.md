@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Clicia'r ddewislen **Dewiswch Gefnlen** a dewis **Paent**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![Yr eicon 'Paent' yn y ddewislen 'Dewiswch gefnlen'.](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Byddi di'n mynd i'r golygydd Scratch Paint gyda'r gefnlen newydd wedi'i hamlygu. Os oes gen ti gefnlenni eraill yn dy brosiect, byddi di hefyd yn eu gweld ar y rhestr:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![Y gefnlen newydd a ddangosir yn y golygydd Paent.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Gwna'n siŵr dy fod ti'n gallu gweld cynfas y gefnlen yn llawn, efallai bydd angen i ti ddefnyddio'r offeryn **Pellhau**:
 
-![The zoom out icon](images/zoom-out.png)
+![Yr eicon pellhau](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+I osod prif liw'r gefnlen clicia ar yr offeryn **petryal**, wedyn defnyddio'r dewiswr lliw **Llenwi** i ddewis lliw:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Cefnlen newydd yn cael ei dangos yn y golygydd paent](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Llusga'r siâp dros gynfas y gefnlen lawn:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Cefnlen newydd yn cael ei dangos yn y golygydd paent](images/single-colour-backdrop.png)
