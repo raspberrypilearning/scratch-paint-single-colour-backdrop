@@ -6,7 +6,7 @@ Zostaniesz przeniesiony do edytora Scratch Paint z podświetlonym nowym tłem. J
 
 ![Nowe tło wyświetlane w edytorze Paint.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Upewnij się, że widzisz całe płótno tła, konieczne może być użycie narzędzia **Pomniejsz**:
 
 ![Ikona pomniejszenia](images/zoom-out.png)
 
