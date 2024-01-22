@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Przejdź do menu **Wybierz tło** i kliknij **Maluj**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![Opcja „Maluj” w menu „Wybierz tło”.](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Zostaniesz przeniesiony do edytora Scratch Paint z podświetlonym nowym tłem. Jeśli w swoim projekcie masz inne tła, zobaczysz je również na liście:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![Nowe tło wyświetlane w edytorze Paint.](images/new-background-in-editor.png)
 
 Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
 
-![The zoom out icon](images/zoom-out.png)
+![Ikona pomniejszenia](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Aby ustawić główny kolor tła, kliknij narzędzie **Prostokąt**, a następnie użyj selektora kolorów **Wypełnienie**, aby wybrać kolor:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Nowe tło dodane do panelu wyboru tła](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Przeciągnij kształt przez całe płótno:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Nowe tło dodane do panelu wyboru tła](images/single-colour-backdrop.png)
