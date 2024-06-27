@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Vá para o menu **Selecionar Cenário** e clique em **Pintar**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![A opção 'Pintar' no menu 'Selecionar Cenário'.](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Você será levado ao editor de pintura Scratch com o novo cenário em destaque. Se você tiver outros cenários no seu projeto, também os verá na lista:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![O novo cenário mostrado no editor do Paint.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Certifique-se de ver a tela completa do cenário, talvez seja necessário usar a ferramenta **Zoom out**:
 
-![The zoom out icon](images/zoom-out.png)
+![O ícone de diminuir o zoom](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Para definir a cor principal do cenário, clique na ferramenta **Retângulo** e use o **Preencher** para selecionar uma cor, então arraste a forma sobre a tela inteira do cenário:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Novo cenário mostrado no editor de pintura](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Arraste a forma sobre toda a tela do cenário:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Novo cenário mostrado no editor de pintura](images/single-colour-backdrop.png)
