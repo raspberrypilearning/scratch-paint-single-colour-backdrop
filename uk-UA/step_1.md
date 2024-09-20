@@ -1,19 +1,19 @@
-Click the **Choose a Backdrop** menu and select **Paint**.
+Клацни на меню **Обрати тло** і вибери **Намалювати**.
 
-![The 'Paint' icon in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
+![Іконка «Намалювати» в меню «Обрати тло».](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project, you will also see them in the list:
+Ти перейдеш до редактора малювання Скретчу з виділеним новим тлом. Якщо у твоєму проєкті є інші тла, ти також побачиш їх у списку:
 
-![The new backdrop shown in the Paint editor.](images/new-background-in-editor.png)
+![Нове тло у редакторі малювання.](images/new-background-in-editor.png)
 
-Make sure you can see the full backdrop canvas, you might need to use the **Zoom out** tool:
+Переконайся, що ти бачиш увесь малюнок тла. Тобі може знадобитися інструмент **Збільшити/зменшити**:
 
-![The zoom out icon](images/zoom-out.png)
+![Іконка збільшення/зменшення](images/zoom-out.png)
 
-To set the main colour of the backdrop, click on the **Rectangle** tool then use the **Fill** colour chooser to select a colour:
+Щоб задати основний колір тла, натисни на інструмент **Прямокутник**, потім за допомогою панелі вибору кольору **Заливки** вибери колір:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
+![Нове тло у редакторі малювання](images/fill-colour-tool.png)
 
-Drag the shape over the full backdrop canvas:
+Розтягни фігуру на весь малюнок тла:
 
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![Нове тло у редакторі малювання](images/single-colour-backdrop.png)
